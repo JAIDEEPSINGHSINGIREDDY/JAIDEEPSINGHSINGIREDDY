@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAI DEEP SINGH SINGIREDDY</h1>
 <h3 align="center">A passionate embedded software developer from India</h3>
-
-/*<h3 align="center">Used https://rahuldkjain.github.io/gh-profile-readme-generator/</h3>*/
+<h6 align="center">Used https://rahuldkjain.github.io/gh-profile-readme-generator/</h6>
 
 - 🌱 I’m currently learning **C, Linux**
 
